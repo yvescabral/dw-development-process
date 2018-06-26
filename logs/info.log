@@ -1,77 +1,79 @@
-Info: CustomCategory:visao_geral: 109 mini seconds publishing element
-Info: DeliveryProcess:processo_desenvolvimento_datawarehouse: 484 mini seconds publishing element
-Info: DeliveryProcess:processo_desenvolvimento_datawarehouse: 2266 mini seconds publishing process specific layout data
-Info: Phase:Análise de necessidades: 172 mini seconds publishing element
-Info: Activity:Analisar organização: 453 mini seconds publishing element
-Info: Activity:Analisar sistema: 391 mini seconds publishing element
+Info: CustomCategory:visao_geral: 422 mini seconds publishing element
+Info: : 2016 mini-second(s) publishing element DeliveryProcess:processo_desenvolvimento_datawarehouse[processo_data_warehouse\deliveryprocesses\processo_desenvolvimento_datawarehouse_A80E44B0.html]
+Info: DeliveryProcess:processo_desenvolvimento_datawarehouse: 2016 mini seconds publishing element
+Info: DeliveryProcess:processo_desenvolvimento_datawarehouse: 2265 mini seconds publishing process specific layout data
+Info: Phase:Análise de necessidades: 157 mini seconds publishing element
+Info: Activity:Analisar organização: 406 mini seconds publishing element
+Info: Activity:Analisar sistema: 328 mini seconds publishing element
 Info: Phase:projeto: 125 mini seconds publishing element
-Info: Activity:Refinar análise: 250 mini seconds publishing element
-Info: Activity:Projetar modelo dimensional: 187 mini seconds publishing element
-Info: Activity:Projetar modelo de ETL: 140 mini seconds publishing element
-Info: Phase:implantacao: 125 mini seconds publishing element
-Info: Activity:Implementar solução: 172 mini seconds publishing element
-Info: Activity:Testar solução: 94 mini seconds publishing element
-Info: Activity:Implantar solução: 313 mini seconds publishing element
-Info: Phase:Manutenção: 109 mini seconds publishing element
-Info: Activity:Executar scripts: 187 mini seconds publishing element
-Info: Activity:Realizar manutenção: 204 mini seconds publishing element
-Info: TaskDescriptor:realizar_reuniao_com_gerente_de_negocio: 15 mini seconds publishing element
-Info: TaskDescriptor:identificar_a_estrutura_da_organizao: 0 mini seconds publishing element
-Info: TaskDescriptor:identificar_os_objetivos_da_organizao: 32 mini seconds publishing element
-Info: TaskDescriptor:realizar_reuniao_com_usuarios_finais: 14 mini seconds publishing element
-Info: TaskDescriptor:identificar_os_processos_da_organizao: 16 mini seconds publishing element
+Info: Activity:Refinar análise: 219 mini seconds publishing element
+Info: Activity:Projetar modelo dimensional: 172 mini seconds publishing element
+Info: Activity:Projetar modelo de ETL: 124 mini seconds publishing element
+Info: Phase:implantacao: 110 mini seconds publishing element
+Info: Activity:Implementar solução: 157 mini seconds publishing element
+Info: Activity:Testar solução: 77 mini seconds publishing element
+Info: Activity:Implantar solução: 297 mini seconds publishing element
+Info: Phase:Manutenção: 110 mini seconds publishing element
+Info: Activity:Executar scripts: 156 mini seconds publishing element
+Info: Activity:Realizar manutenção: 188 mini seconds publishing element
+Info: TaskDescriptor:realizar_reuniao_com_gerente_de_negocio: 156 mini seconds publishing element
+Info: TaskDescriptor:identificar_a_estrutura_da_organizao: 15 mini seconds publishing element
+Info: TaskDescriptor:identificar_os_objetivos_da_organizao: 16 mini seconds publishing element
+Info: TaskDescriptor:realizar_reuniao_com_usuarios_finais: 47 mini seconds publishing element
+Info: TaskDescriptor:identificar_os_processos_da_organizao: 31 mini seconds publishing element
 Info: TaskDescriptor:realizar_reuniao_com_administradores: 16 mini seconds publishing element
-Info: TaskDescriptor:analisar_modelo_de_dados_do_sistema: 0 mini seconds publishing element
-Info: TaskDescriptor:coletar_detalhes_do_sistema_operacional: 0 mini seconds publishing element
-Info: TaskDescriptor:identificar_funcionalidades_existentes: 15 mini seconds publishing element
-Info: TaskDescriptor:realizar_reuniao_com_usuarios_finais: 16 mini seconds publishing element
-Info: TaskDescriptor:identificar_nvel_de_satisfao_dos_usurios: 0 mini seconds publishing element
+Info: TaskDescriptor:analisar_modelo_de_dados_do_sistema: 15 mini seconds publishing element
+Info: TaskDescriptor:coletar_detalhes_do_sistema_transacional: 16 mini seconds publishing element
+Info: TaskDescriptor:identificar_funcionalidades_existentes: 16 mini seconds publishing element
+Info: TaskDescriptor:realizar_reuniao_com_usuarios_finais: 15 mini seconds publishing element
+Info: TaskDescriptor:identificar_nvel_de_satisfao_dos_usurios: 16 mini seconds publishing element
 Info: TaskDescriptor:identificar_possveis_relatrios: 15 mini seconds publishing element
 Info: TaskDescriptor:realizar_reuniao_com_gerente_de_negocio: 16 mini seconds publishing element
 Info: TaskDescriptor:determinar_granularidade: 16 mini seconds publishing element
-Info: TaskDescriptor:identificar_a_frequncia_de_atualizao_necessria: 15 mini seconds publishing element
-Info: TaskDescriptor:identificar_processos_chave: 0 mini seconds publishing element
-Info: TaskDescriptor:elaborar_matriz_de_necessidades: 15 mini seconds publishing element
-Info: TaskDescriptor:identificar_tabelas_fato: 17 mini seconds publishing element
-Info: TaskDescriptor:identificar_dimensoes: 0 mini seconds publishing element
-Info: TaskDescriptor:identificar_parmetros_e_medidas: 0 mini seconds publishing element
+Info: TaskDescriptor:identificar_a_frequncia_de_atualizao_necessria: 0 mini seconds publishing element
+Info: TaskDescriptor:identificar_processos_chave: 15 mini seconds publishing element
+Info: TaskDescriptor:elaborar_matriz_de_necessidades: 16 mini seconds publishing element
+Info: TaskDescriptor:identificar_tabelas_fato: 15 mini seconds publishing element
+Info: TaskDescriptor:identificar_dimensoes: 16 mini seconds publishing element
+Info: TaskDescriptor:identificar_parmetros_e_medidas: 16 mini seconds publishing element
 Info: TaskDescriptor:elaborar_diagrama_dimensional: 16 mini seconds publishing element
 Info: TaskDescriptor:identificar_fonte_dos_dados: 15 mini seconds publishing element
 Info: TaskDescriptor:especificar_regras_para_transformao_dos_dados: 16 mini seconds publishing element
 Info: TaskDescriptor:criar_tabelas: 0 mini seconds publishing element
-Info: TaskDescriptor:executar_etl: 15 mini seconds publishing element
-Info: TaskDescriptor:implementar_script_etl: 16 mini seconds publishing element
-Info: TaskDescriptor:testar_acesso_aos_dados: 15 mini seconds publishing element
-Info: TaskDescriptor:testar_gerao_de_relatrios: 16 mini seconds publishing element
-Info: TaskDescriptor:configurar_infraestrutura: 0 mini seconds publishing element
-Info: TaskDescriptor:instalar_software_necessrios: 16 mini seconds publishing element
-Info: TaskDescriptor:criar_e_popular_data_warehouse: 16 mini seconds publishing element
+Info: TaskDescriptor:executar_etl: 16 mini seconds publishing element
+Info: TaskDescriptor:implementar_script_etl: 15 mini seconds publishing element
+Info: TaskDescriptor:testar_acesso_aos_dados: 16 mini seconds publishing element
+Info: TaskDescriptor:testar_gerao_de_relatrios: 0 mini seconds publishing element
+Info: TaskDescriptor:verificar_integridade_dos_dados: 15 mini seconds publishing element
+Info: TaskDescriptor:configurar_infraestrutura: 16 mini seconds publishing element
+Info: TaskDescriptor:instalar_software_necessrios: 0 mini seconds publishing element
+Info: TaskDescriptor:criar_e_popular_data_warehouse: 0 mini seconds publishing element
 Info: TaskDescriptor:entregar_solucao: 15 mini seconds publishing element
-Info: TaskDescriptor:identificar_frequncia_de_execuo_do_etl: 16 mini seconds publishing element
-Info: TaskDescriptor:executar_script_de_etl: 0 mini seconds publishing element
-Info: TaskDescriptor:identificar_padres_de_query: 15 mini seconds publishing element
-Info: TaskDescriptor:atualizar_disposicao_dos_dados: 17 mini seconds publishing element
-Info: TaskDescriptor:monitorar_performance_de_execuo_dos_ndices: 15 mini seconds publishing element
-Info: TaskDescriptor:atualizar_indices: 16 mini seconds publishing element
-Info: RoleDescriptor:administradores_de_sistema: 15 mini seconds publishing element
-Info: RoleDescriptor:analista_de_dados: 15 mini seconds publishing element
+Info: TaskDescriptor:identificar_frequncia_de_execuo_do_etl: 15 mini seconds publishing element
+Info: TaskDescriptor:executar_script_de_etl: 16 mini seconds publishing element
+Info: TaskDescriptor:identificar_padres_de_query: 16 mini seconds publishing element
+Info: TaskDescriptor:atualizar_disposicao_dos_dados: 16 mini seconds publishing element
+Info: TaskDescriptor:monitorar_performance_de_execuo_dos_ndices: 0 mini seconds publishing element
+Info: TaskDescriptor:atualizar_indices: 15 mini seconds publishing element
+Info: RoleDescriptor:administradores_de_sistema: 125 mini seconds publishing element
+Info: RoleDescriptor:analista_de_dados: 31 mini seconds publishing element
 Info: RoleDescriptor:gerente_de_negocio: 16 mini seconds publishing element
 Info: RoleDescriptor:usuarios_finais: 0 mini seconds publishing element
-Info: WorkProductDescriptor:atas_de_reuniao: 31 mini seconds publishing element
-Info: WorkProductDescriptor:dados_carregados: 16 mini seconds publishing element
-Info: WorkProductDescriptor:data_warehouse_entregue: 0 mini seconds publishing element
-Info: WorkProductDescriptor:diagrama_dimensional: 16 mini seconds publishing element
+Info: WorkProductDescriptor:atas_de_reuniao: 204 mini seconds publishing element
+Info: WorkProductDescriptor:dados_carregados: 31 mini seconds publishing element
+Info: WorkProductDescriptor:data_warehouse_entregue: 16 mini seconds publishing element
+Info: WorkProductDescriptor:diagrama_dimensional: 15 mini seconds publishing element
 Info: WorkProductDescriptor:matriz_de_necessidades: 15 mini seconds publishing element
 Info: WorkProductDescriptor:missao_viso_e_valores_da_organizao: 0 mini seconds publishing element
-Info: WorkProductDescriptor:modelo_de_dados: 17 mini seconds publishing element
-Info: WorkProductDescriptor:modelo_de_dados_alterado: 14 mini seconds publishing element
-Info: WorkProductDescriptor:modelo_de_dados_sistema: 16 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_dados: 16 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_dados_alterado: 15 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_dados_sistema: 0 mini seconds publishing element
 Info: WorkProductDescriptor:modelo_de_fonte_de_dados: 16 mini seconds publishing element
 Info: WorkProductDescriptor:modelo_dimensional: 16 mini seconds publishing element
-Info: WorkProductDescriptor:modelo_etl: 15 mini seconds publishing element
-Info: WorkProductDescriptor:organograma_da_organizao: 16 mini seconds publishing element
-Info: WorkProductDescriptor:script_etl: 0 mini seconds publishing element
-Info: RoleDescriptor:analista_de_dados: 15 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_etl: 0 mini seconds publishing element
+Info: WorkProductDescriptor:organograma_da_organizao: 0 mini seconds publishing element
+Info: WorkProductDescriptor:script_etl: 15 mini seconds publishing element
+Info: RoleDescriptor:analista_de_dados: 16 mini seconds publishing element
 Info: RoleDescriptor:usuarios_finais: 16 mini seconds publishing element
 Info: WorkProductDescriptor:atas_de_reuniao: 15 mini seconds publishing element
 Info: RoleDescriptor:analista_de_dados: 16 mini seconds publishing element
@@ -80,75 +82,76 @@ Info: WorkProductDescriptor:atas_de_reuniao: 15 mini seconds publishing element
 Info: WorkProductDescriptor:modelo_de_dados_sistema: 16 mini seconds publishing element
 Info: RoleDescriptor:analista_de_dados: 16 mini seconds publishing element
 Info: WorkProductDescriptor:modelo_de_dados_sistema: 15 mini seconds publishing element
-Info: RoleDescriptor:analista_de_dados: 16 mini seconds publishing element
-Info: WorkProductDescriptor:matriz_de_necessidades: 0 mini seconds publishing element
-Info: WorkProductDescriptor:modelo_de_dados_sistema: 16 mini seconds publishing element
-Info: RoleDescriptor:administradores_de_sistema: 15 mini seconds publishing element
 Info: RoleDescriptor:analista_de_dados: 0 mini seconds publishing element
-Info: RoleDescriptor:gerente_de_negocio: 16 mini seconds publishing element
-Info: RoleDescriptor:usuarios_finais: 0 mini seconds publishing element
-Info: WorkProductDescriptor:diagrama_dimensional: 0 mini seconds publishing element
-Info: WorkProductDescriptor:modelo_de_fonte_de_dados: 15 mini seconds publishing element
-Info: RoleDescriptor:analista_de_dados: 16 mini seconds publishing element
+Info: WorkProductDescriptor:matriz_de_necessidades: 16 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_dados_sistema: 16 mini seconds publishing element
+Info: RoleDescriptor:administradores_de_sistema: 0 mini seconds publishing element
 Info: RoleDescriptor:analista_de_dados: 15 mini seconds publishing element
-Info: WorkProductDescriptor:diagrama_dimensional: 16 mini seconds publishing element
-Info: WorkProductDescriptor:script_etl: 0 mini seconds publishing element
+Info: RoleDescriptor:gerente_de_negocio: 16 mini seconds publishing element
+Info: RoleDescriptor:usuarios_finais: 15 mini seconds publishing element
+Info: WorkProductDescriptor:diagrama_dimensional: 0 mini seconds publishing element
+Info: WorkProductDescriptor:modelo_de_fonte_de_dados: 16 mini seconds publishing element
+Info: RoleDescriptor:analista_de_dados: 0 mini seconds publishing element
+Info: RoleDescriptor:analista_de_dados: 0 mini seconds publishing element
+Info: WorkProductDescriptor:diagrama_dimensional: 15 mini seconds publishing element
+Info: WorkProductDescriptor:script_etl: 16 mini seconds publishing element
 Info: RoleDescriptor:analista_de_dados: 0 mini seconds publishing element
 Info: WorkProductDescriptor:script_etl: 16 mini seconds publishing element
 Info: RoleDescriptor:analista_de_dados: 0 mini seconds publishing element
 Info: WorkProductDescriptor:script_etl: 15 mini seconds publishing element
-Info: Task:realizar_reuniao_com_gerente_de_negocio: 16 mini seconds publishing element
-Info: Task:identificar_a_estrutura_da_organizao: 0 mini seconds publishing element
-Info: Task:identificar_os_objetivos_da_organizao: 15 mini seconds publishing element
-Info: Task:realizar_reuniao_com_usuarios_finais: 17 mini seconds publishing element
-Info: Task:identificar_os_processos_da_organizao: 0 mini seconds publishing element
-Info: Task:realizar_reuniao_com_administradores: 14 mini seconds publishing element
+Info: Task:realizar_reuniao_com_gerente_de_negocio: 172 mini seconds publishing element
+Info: Task:identificar_a_estrutura_da_organizao: 16 mini seconds publishing element
+Info: Task:identificar_os_objetivos_da_organizao: 0 mini seconds publishing element
+Info: Task:realizar_reuniao_com_usuarios_finais: 16 mini seconds publishing element
+Info: Task:identificar_os_processos_da_organizao: 14 mini seconds publishing element
+Info: Task:realizar_reuniao_com_administradores: 16 mini seconds publishing element
 Info: Task:analisar_modelo_de_dados_do_sistema: 0 mini seconds publishing element
-Info: Task:coletar_detalhes_do_sistema_operacional: 16 mini seconds publishing element
-Info: Task:identificar_funcionalidades_existentes: 0 mini seconds publishing element
-Info: Task:identificar_nvel_de_satisfao_dos_usurios: 16 mini seconds publishing element
+Info: Task:coletar_detalhes_do_sistema_transacional: 16 mini seconds publishing element
+Info: Task:identificar_funcionalidades_existentes: 16 mini seconds publishing element
+Info: Task:identificar_nvel_de_satisfao_dos_usurios: 0 mini seconds publishing element
 Info: Task:identificar_possveis_relatrios: 15 mini seconds publishing element
 Info: Task:determinar_granularidade: 0 mini seconds publishing element
 Info: Task:identificar_a_frequncia_de_atualizao_necessria: 16 mini seconds publishing element
 Info: Task:identificar_processos_chave: 0 mini seconds publishing element
 Info: Task:elaborar_matriz_de_necessidades: 15 mini seconds publishing element
-Info: Task:identificar_tabelas_fato: 0 mini seconds publishing element
-Info: Task:identificar_dimensoes: 16 mini seconds publishing element
-Info: Task:identificar_parmetros_e_medidas: 0 mini seconds publishing element
-Info: Task:elaborar_diagrama_dimensional: 16 mini seconds publishing element
-Info: Task:identificar_fonte_dos_dados: 0 mini seconds publishing element
-Info: Task:especificar_regras_para_transformao_dos_dados: 15 mini seconds publishing element
-Info: Task:criar_tabelas: 0 mini seconds publishing element
-Info: Task:executar_etl: 16 mini seconds publishing element
-Info: Task:implementar_script_etl: 0 mini seconds publishing element
-Info: Task:testar_acesso_aos_dados: 16 mini seconds publishing element
-Info: Task:testar_gerao_de_relatrios: 0 mini seconds publishing element
-Info: Task:configurar_infraestrutura: 15 mini seconds publishing element
-Info: Task:instalar_software_necessrios: 0 mini seconds publishing element
+Info: Task:identificar_tabelas_fato: 16 mini seconds publishing element
+Info: Task:identificar_dimensoes: 0 mini seconds publishing element
+Info: Task:identificar_parmetros_e_medidas: 16 mini seconds publishing element
+Info: Task:elaborar_diagrama_dimensional: 0 mini seconds publishing element
+Info: Task:identificar_fonte_dos_dados: 15 mini seconds publishing element
+Info: Task:especificar_regras_para_transformao_dos_dados: 0 mini seconds publishing element
+Info: Task:criar_tabelas: 16 mini seconds publishing element
+Info: Task:executar_etl: 0 mini seconds publishing element
+Info: Task:implementar_script_etl: 16 mini seconds publishing element
+Info: Task:testar_acesso_aos_dados: 0 mini seconds publishing element
+Info: Task:testar_gerao_de_relatrios: 15 mini seconds publishing element
+Info: Task:verificar_integridade_dos_dados: 16 mini seconds publishing element
+Info: Task:configurar_infraestrutura: 0 mini seconds publishing element
+Info: Task:instalar_software_necessrios: 16 mini seconds publishing element
 Info: Task:criar_e_popular_data_warehouse: 0 mini seconds publishing element
-Info: Task:entregar_solucao: 14 mini seconds publishing element
+Info: Task:entregar_solucao: 15 mini seconds publishing element
 Info: Task:identificar_frequncia_de_execuo_do_etl: 0 mini seconds publishing element
-Info: Task:executar_script_de_etl: 17 mini seconds publishing element
+Info: Task:executar_script_de_etl: 16 mini seconds publishing element
 Info: Task:identificar_padres_de_query: 0 mini seconds publishing element
 Info: Task:atualizar_disposicao_dos_dados: 15 mini seconds publishing element
-Info: Task:monitorar_performance_de_execuo_dos_ndices: 16 mini seconds publishing element
-Info: Task:atualizar_indices: 0 mini seconds publishing element
-Info: Role:administradores_de_sistema: 46 mini seconds publishing element
-Info: Role:analista_de_dados: 157 mini seconds publishing element
-Info: Role:gerente_de_negocio: 46 mini seconds publishing element
-Info: Role:usuarios_finais: 32 mini seconds publishing element
-Info: Artifact:atas_de_reuniao: 15 mini seconds publishing element
-Info: Outcome:dados_carregados: 0 mini seconds publishing element
-Info: Outcome:data_warehouse_entregue: 15 mini seconds publishing element
-Info: Artifact:diagrama_dimensional: 16 mini seconds publishing element
-Info: Artifact:matriz_de_necessidades: 16 mini seconds publishing element
-Info: Artifact:missao_viso_e_valores_da_organizao: 0 mini seconds publishing element
-Info: Artifact:modelo_de_dados: 15 mini seconds publishing element
-Info: Deliverable:modelo_de_dados_alterado: 16 mini seconds publishing element
-Info: Artifact:modelo_de_dados_sistema: 0 mini seconds publishing element
-Info: Artifact:modelo_de_fonte_de_dados: 16 mini seconds publishing element
+Info: Task:monitorar_performance_de_execuo_dos_ndices: 0 mini seconds publishing element
+Info: Task:atualizar_indices: 16 mini seconds publishing element
+Info: Role:administradores_de_sistema: 281 mini seconds publishing element
+Info: Role:analista_de_dados: 141 mini seconds publishing element
+Info: Role:gerente_de_negocio: 47 mini seconds publishing element
+Info: Role:usuarios_finais: 31 mini seconds publishing element
+Info: Artifact:atas_de_reuniao: 172 mini seconds publishing element
+Info: Outcome:dados_carregados: 234 mini seconds publishing element
+Info: Outcome:data_warehouse_entregue: 16 mini seconds publishing element
+Info: Artifact:diagrama_dimensional: 15 mini seconds publishing element
+Info: Artifact:matriz_de_necessidades: 0 mini seconds publishing element
+Info: Artifact:missao_viso_e_valores_da_organizao: 16 mini seconds publishing element
+Info: Artifact:modelo_de_dados: 16 mini seconds publishing element
+Info: Deliverable:modelo_de_dados_alterado: 140 mini seconds publishing element
+Info: Artifact:modelo_de_dados_sistema: 31 mini seconds publishing element
+Info: Artifact:modelo_de_fonte_de_dados: 0 mini seconds publishing element
 Info: Artifact:modelo_dimensional: 16 mini seconds publishing element
-Info: Artifact:modelo_etl: 0 mini seconds publishing element
+Info: Artifact:modelo_etl: 16 mini seconds publishing element
 Info: Artifact:organograma_da_organizao: 0 mini seconds publishing element
 Info: Artifact:script_etl: 15 mini seconds publishing element
-Info: : Publishing time: 0 minutes 9 seconds
+Info: : Publishing time: 0 minutes 12 seconds
