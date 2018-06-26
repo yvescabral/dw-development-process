@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_oglR8XkEEeiaLbGl0bNZNA" guid="_oglR8XkEEeiaLbGl0bNZNA">
+    <subManagers xmi:id="_yzE1cXkEEeiaLbGl0bNZNA" href="uma://_yy7EcHkEEeiaLbGl0bNZNA#_yzE1cXkEEeiaLbGl0bNZNA"/>
+    <resourceDescriptors xmi:id="_oglR8nkEEeiaLbGl0bNZNA" id="_oglR8HkEEeiaLbGl0bNZNA" uri=""/>
+    <resourceDescriptors xmi:id="_yzE1cnkEEeiaLbGl0bNZNA" id="_yy7EcHkEEeiaLbGl0bNZNA" uri="processo_data_warehouse/plugin.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodLibrary xmi:id="_oglR8HkEEeiaLbGl0bNZNA" name="DataWarehouse" guid="_oglR8HkEEeiaLbGl0bNZNA">
+    <methodElementProperty xmi:id="_oiOQsHkEEeiaLbGl0bNZNA" name="library_synFree" value="true"/>
+    <methodPlugins xmi:id="_yy7EcHkEEeiaLbGl0bNZNA" href="uma://_yy7EcHkEEeiaLbGl0bNZNA#_yy7EcHkEEeiaLbGl0bNZNA"/>
+  </org.eclipse.epf.uma:MethodLibrary>
+</xmi:XMI>

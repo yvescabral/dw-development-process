@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_yzE1cXkEEeiaLbGl0bNZNA" guid="_yzE1cXkEEeiaLbGl0bNZNA">
+    <subManagers xmi:id="_MV8KsHkQEeiaLbGl0bNZNA" href="uma://_MVCy0HkQEeiaLbGl0bNZNA#_MV8KsHkQEeiaLbGl0bNZNA"/>
+    <resourceDescriptors xmi:id="_MVyZsHkQEeiaLbGl0bNZNA" id="_MVCy0HkQEeiaLbGl0bNZNA" uri="deliveryprocesses/processo_desenvolvimento_datawarehouse/model.xmi"/>
+    <resourceDescriptors xmi:id="_YhIi8HkVEeiaLbGl0bNZNA" id="-7Z1UwG4eD13c4sS573FUYQ" uri="tasks/monitorar_performance_de_execuo_dos_ndices.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_yy7EcHkEEeiaLbGl0bNZNA" name="processo_data_warehouse" guid="_yy7EcHkEEeiaLbGl0bNZNA" presentationName="Processo de Desenvolvimento de Data Warehouse" authors="Yves Cabral">
+    <methodElementProperty xmi:id="_yzE1c3kEEeiaLbGl0bNZNA" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_C9XggHkKEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EcXkEEeiaLbGl0bNZNA" name="Content" guid="_yy7EcXkEEeiaLbGl0bNZNA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EcnkEEeiaLbGl0bNZNA" name="Categories" guid="_yy7EcnkEEeiaLbGl0bNZNA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7Ec3kEEeiaLbGl0bNZNA" name="Domains" guid="_yy7Ec3kEEeiaLbGl0bNZNA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EdHkEEeiaLbGl0bNZNA" name="Disciplines" guid="_yy7EdHkEEeiaLbGl0bNZNA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EdXkEEeiaLbGl0bNZNA" name="RoleSets" guid="_yy7EdXkEEeiaLbGl0bNZNA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EdnkEEeiaLbGl0bNZNA" name="WP Types" guid="_yy7EdnkEEeiaLbGl0bNZNA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7Ed3kEEeiaLbGl0bNZNA" name="Tools" guid="_yy7Ed3kEEeiaLbGl0bNZNA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EeHkEEeiaLbGl0bNZNA" name="StandardCategories" guid="_yy7EeHkEEeiaLbGl0bNZNA"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EeXkEEeiaLbGl0bNZNA" name="CustomCategories" guid="_yy7EeXkEEeiaLbGl0bNZNA">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EenkEEeiaLbGl0bNZNA" name="Hidden" guid="_yy7EenkEEeiaLbGl0bNZNA">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_yy7Ee3kEEeiaLbGl0bNZNA" name="Custom Categories" guid="_yy7Ee3kEEeiaLbGl0bNZNA" categorizedElements="__9ac4HkREeiaLbGl0bNZNA"/>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="__9ac4HkREeiaLbGl0bNZNA" name="visao_geral" guid="__9ac4HkREeiaLbGl0bNZNA" presentationName="Visão Geral">
+            <methodElementProperty xmi:id="_BcVR8HkSEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_MVCy0HkQEeiaLbGl0bNZNA#_MVCy0XkQEeiaLbGl0bNZNA"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yy7EfHkEEeiaLbGl0bNZNA" name="CoreContent" guid="_yy7EfHkEEeiaLbGl0bNZNA">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_GqlcUHkOEeiaLbGl0bNZNA" name="processo" guid="_GqlcUHkOEeiaLbGl0bNZNA" presentationName="Processo">
+          <methodElementProperty xmi:id="_GqlcUXkOEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_H6T-0HkOEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_FGhFsHkHEeiaLbGl0bNZNA" name="analise" guid="_FGhFsHkHEeiaLbGl0bNZNA" presentationName="Análise">
+            <methodElementProperty xmi:id="_FGqPoHkHEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_IUdBUHkHEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_yVsZEHkIEeiaLbGl0bNZNA" name="analise_organizacao" guid="_yVsZEHkIEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_yVsZEXkIEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_1r-YYHkIEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_3b4PwHkIEeiaLbGl0bNZNA" name="identificar_os_objetivos_da_organizao" guid="_3b4PwHkIEeiaLbGl0bNZNA" presentationName="Identificar os objetivos da organização" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _YPjZ0HkMEeiaLbGl0bNZNA" mandatoryInput="_G3orwHkMEeiaLbGl0bNZNA _vh4l8HkOEeiaLbGl0bNZNA" optionalInput="_mivoEHkLEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_8NMpsHkIEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-EaqAHkIEeiaLbGl0bNZNA" name="identificar_os_processos_da_organizao" guid="_-EaqAHkIEeiaLbGl0bNZNA" presentationName="Identificar os processos da organização" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _YPjZ0HkMEeiaLbGl0bNZNA" mandatoryInput="_vh4l8HkOEeiaLbGl0bNZNA" additionallyPerformedBy="_htvvYHkIEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_AlpQoHkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_B06gIHkJEeiaLbGl0bNZNA" name="identificar_a_estrutura_da_organizao" guid="_B06gIHkJEeiaLbGl0bNZNA" presentationName="Identificar a estrutura da organização" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _YPjZ0HkMEeiaLbGl0bNZNA" mandatoryInput="_mivoEHkLEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_D5ZgYHkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_mivoEHkLEeiaLbGl0bNZNA" name="organograma_da_organizao" guid="_mivoEHkLEeiaLbGl0bNZNA" presentationName="Organograma da organização">
+                <methodElementProperty xmi:id="_opTr8HkLEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_G3orwHkMEeiaLbGl0bNZNA" name="missao_viso_e_valores_da_organizao" guid="_G3orwHkMEeiaLbGl0bNZNA" presentationName="Missao, visão e valores da organização">
+                <methodElementProperty xmi:id="_LNPaEHkMEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YiFboHkJEeiaLbGl0bNZNA" name="analise_sistema" guid="_YiFboHkJEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_YiFboXkJEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_fPiLEHkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gb0_EHkJEeiaLbGl0bNZNA" name="coletar_detalhes_do_sistema_operacional" guid="_gb0_EHkJEeiaLbGl0bNZNA" presentationName="Coletar detalhes do sistema operacional" performedBy="_QWmn8HkJEeiaLbGl0bNZNA _n1BFEHkHEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_73fC8HkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nyse8HkJEeiaLbGl0bNZNA" name="identificar_funcionalidades_existentes" guid="_nyse8HkJEeiaLbGl0bNZNA" presentationName="Identificar funcionalidades existentes">
+                <methodElementProperty xmi:id="_7eJV4HkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wHkfMHkJEeiaLbGl0bNZNA" name="identificar_possveis_relatrios" guid="_wHkfMHkJEeiaLbGl0bNZNA" presentationName="Identificar possíveis relatórios" briefDescription="Identificar relatórios que não existem no sistema operacional da organização e que poderão ser gerados a partir do Data Warehouse.">
+                <methodElementProperty xmi:id="_7A8cgHkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HCSugHkKEeiaLbGl0bNZNA" name="identificar_nvel_de_satisfao_dos_usurios" guid="_HCSugHkKEeiaLbGl0bNZNA" presentationName="Identificar nível de satisfação dos usuários" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_LiMBQHkKEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aSa0AHkNEeiaLbGl0bNZNA" name="analisar_modelo_de_dados_do_sistema" guid="_aSa0AHkNEeiaLbGl0bNZNA" presentationName="Analisar modelo de dados do sistema" performedBy="_QWmn8HkJEeiaLbGl0bNZNA _n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_jFFjgHkNEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d48OwHkNEeiaLbGl0bNZNA" name="modelo_de_dados_sistema" guid="_d48OwHkNEeiaLbGl0bNZNA" presentationName="Modelo de Dados do Sistema Operacional">
+                <methodElementProperty xmi:id="_flt5oHkNEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_t8E7MHkNEeiaLbGl0bNZNA" name="implantacao" guid="_t8E7MHkNEeiaLbGl0bNZNA">
+            <methodElementProperty xmi:id="_t8E7MXkNEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_vEpFwHkNEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_cwpUsHkzEeiaLbGl0bNZNA" name="implementar" guid="_cwpUsHkzEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_cwzswHkzEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_eY99YHkzEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_8CWDwHk4EeiaLbGl0bNZNA" name="implementar_script_etl" guid="_8CWDwHk4EeiaLbGl0bNZNA" presentationName="Implementar script ETL" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_HXxyUHk2EeiaLbGl0bNZNA _gwBw0HkyEeiaLbGl0bNZNA" output="_rAN_UHkTEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_9slYAHk4EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_-CpHkHk4EeiaLbGl0bNZNA" name="criar_tabelas" guid="_-CpHkHk4EeiaLbGl0bNZNA" presentationName="Criar tabelas" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_huhugHk0EeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_Ci-fMHk5EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_G5yHYHk5EeiaLbGl0bNZNA" name="executar_etl" guid="_G5yHYHk5EeiaLbGl0bNZNA" presentationName="Executar ETL" output="_rAN_UHkTEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_IlNucHk5EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_fG2XEHkzEeiaLbGl0bNZNA" name="implantar" guid="_fG2XEHkzEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_fG2XEXkzEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_gbM64HkzEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hE2QoHk6EeiaLbGl0bNZNA" name="configurar_infraestrutura" guid="_hE2QoHk6EeiaLbGl0bNZNA" presentationName="Configurar infraestrutura" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" additionallyPerformedBy="_QWmn8HkJEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_ifJrcHk6EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_l-EpYHk6EeiaLbGl0bNZNA" name="instalar_software_necessrios" guid="_l-EpYHk6EeiaLbGl0bNZNA" presentationName="Instalar software necessários" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" additionallyPerformedBy="_QWmn8HkJEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_ngRb8Hk6EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_qEo2IHk6EeiaLbGl0bNZNA" name="criar_e_popular_data_warehouse" guid="_qEo2IHk6EeiaLbGl0bNZNA" presentationName="Criar e popular Data Warehouse" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_rAN_UHkTEeiaLbGl0bNZNA _huhugHk0EeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_x4a7gHk6EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_JR_C8Hk7EeiaLbGl0bNZNA" name="entregar_solucao" guid="_JR_C8Hk7EeiaLbGl0bNZNA" presentationName="Entregar solução" performedBy="_QWmn8HkJEeiaLbGl0bNZNA _n1BFEHkHEeiaLbGl0bNZNA _YPjZ0HkMEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA" output="_PSIngHk7EeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_KrGK8Hk7EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hGQqEHkzEeiaLbGl0bNZNA" name="testar" guid="_hGQqEHkzEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_hGQqEXkzEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_ifEQEHkzEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OExR8Hk6EeiaLbGl0bNZNA" name="testar_acesso_aos_dados" guid="_OExR8Hk6EeiaLbGl0bNZNA" presentationName="Testar acesso aos dados">
+                <methodElementProperty xmi:id="_Y1fpkHk6EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_R1S9QHk6EeiaLbGl0bNZNA" name="testar_gerao_de_relatrios" guid="_R1S9QHk6EeiaLbGl0bNZNA" presentationName="Testar geração de relatórios" performedBy="_n1BFEHkHEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_T13t4Hk6EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rAN_UHkTEeiaLbGl0bNZNA" name="script_etl" guid="_rAN_UHkTEeiaLbGl0bNZNA" presentationName="Script ETL" briefDescription="Script que realizar o ETL no Data Warehouse">
+              <methodElementProperty xmi:id="_wXipUHkTEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_PSIngHk7EeiaLbGl0bNZNA" name="data_warehouse_entregue" guid="_PSIngHk7EeiaLbGl0bNZNA" presentationName="Data Warehouse entregue">
+              <methodElementProperty xmi:id="_RuTH8Hk7EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_vpm0AHkNEeiaLbGl0bNZNA" name="manutencao" guid="_vpm0AHkNEeiaLbGl0bNZNA" presentationName="Manutenção">
+            <methodElementProperty xmi:id="_vpm0AXkNEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_yoow8HkNEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_okVBIHkSEeiaLbGl0bNZNA" name="execucao_etl" guid="_okVBIHkSEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_okeLEHkSEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_qtRDkHkSEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9BIAAHkTEeiaLbGl0bNZNA" name="identificar_frequncia_de_execuo_do_etl" guid="_9BIAAHkTEeiaLbGl0bNZNA" presentationName="Identificar frequência de execução do ETL" mandatoryInput="_rAN_UHkTEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_gz4RsHkUEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EECCEHkUEeiaLbGl0bNZNA" name="executar_script_de_etl" guid="_EECCEHkUEeiaLbGl0bNZNA" presentationName="Executar script de ETL" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_rAN_UHkTEeiaLbGl0bNZNA" output="_Yo_T4HkUEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_eGSDAHkUEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Outcome" xmi:id="_Yo_T4HkUEeiaLbGl0bNZNA" name="dados_carregados" guid="_Yo_T4HkUEeiaLbGl0bNZNA" presentationName="Dados carregados" briefDescription="Os dados são carregados no DW">
+                <methodElementProperty xmi:id="_bmF-MHkUEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_0LSdMHkSEeiaLbGl0bNZNA" name="manutencao_dados" guid="_0LSdMHkSEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_0LSdMXkSEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_23PtIHkSEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4LSu8HkSEeiaLbGl0bNZNA" name="identificar_padres_de_query" guid="_4LSu8HkSEeiaLbGl0bNZNA" presentationName="Identificar padrões de query" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_rAN_UHkTEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_0dqKIHkTEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CsO-IHkTEeiaLbGl0bNZNA" name="atualizar_disposicao_dos_dados" guid="_CsO-IHkTEeiaLbGl0bNZNA" presentationName="Atualizar disposição dos dados" briefDescription="Para assegurar a disponibilidade de dados apropiada poderão ser feitos ajustes na disposição dos dados no Data Warehouse." performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_UCqecHkTEeiaLbGl0bNZNA" output="_k9-wEHkTEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_Qo9XsHkTEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_UCqecHkTEeiaLbGl0bNZNA" name="modelo_de_dados" guid="_UCqecHkTEeiaLbGl0bNZNA" presentationName="Modelo de Dados">
+                <methodElementProperty xmi:id="_WI7AUHkTEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Deliverable" xmi:id="_k9-wEHkTEeiaLbGl0bNZNA" name="modelo_de_dados_alterado" guid="_k9-wEHkTEeiaLbGl0bNZNA" presentationName="Modelo de Dados alterado">
+                <methodElementProperty xmi:id="_mvE6QHkTEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ivvsAHkVEeiaLbGl0bNZNA" name="atualizar_indices" guid="_ivvsAHkVEeiaLbGl0bNZNA" presentationName="Atualizar índices" briefDescription="Para facilitar a execução das consultas e otimizar a performance para os usuários finais" performedBy="_n1BFEHkHEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_ka4YIHkVEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_9yxp8HkUEeiaLbGl0bNZNA" name="monitorar_performance_de_execuo_dos_ndices" guid="_9yxp8HkUEeiaLbGl0bNZNA" presentationName="Monitorar performance de execução dos índices" briefDescription="Monitorar performance de execução dos índices dos índices em uso" performedBy="_n1BFEHkHEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_O9b_IHkVEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+                <presentation xmi:id="-7Z1UwG4eD13c4sS573FUYQ" href="uma://-7Z1UwG4eD13c4sS573FUYQ#-7Z1UwG4eD13c4sS573FUYQ"/>
+              </contentElements>
+            </childPackages>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_qVZvcHkNEeiaLbGl0bNZNA" name="projeto" guid="_qVZvcHkNEeiaLbGl0bNZNA" presentationName="Projeto">
+            <methodElementProperty xmi:id="_qVZvcXkNEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_tQtqAHkNEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_U1J_cHkgEeiaLbGl0bNZNA" name="projetar_modelo_dim" guid="_U1J_cHkgEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_U1TwcHkgEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_WSlmwHkgEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_EP5GQHk0EeiaLbGl0bNZNA" name="identificar_tabelas_fato" guid="_EP5GQHk0EeiaLbGl0bNZNA" presentationName="Identificar tabelas fato" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA" output="_i66UAHkyEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_GqkY8Hk0EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_QsqI8Hk0EeiaLbGl0bNZNA" name="identificar_dimensoes" guid="_QsqI8Hk0EeiaLbGl0bNZNA" presentationName="Identificar dimensões" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA" output="_i66UAHkyEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_R2amUHk0EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Ua7KcHk0EeiaLbGl0bNZNA" name="identificar_parmetros_e_medidas" guid="_Ua7KcHk0EeiaLbGl0bNZNA" presentationName="Identificar parêmetros e medidas" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA" optionalInput="_i66UAHkyEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_ahoqAHk0EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_dyZ3MHk0EeiaLbGl0bNZNA" name="elaborar_diagrama_dimensional" guid="_dyZ3MHk0EeiaLbGl0bNZNA" presentationName="Elaborar diagrama dimensional" mandatoryInput="_i66UAHkyEeiaLbGl0bNZNA" output="_huhugHk0EeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_gJfqYHk0EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_JthT8HkxEeiaLbGl0bNZNA" name="refinar_analise" guid="_JthT8HkxEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_JthT8XkxEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_Lacv0HkxEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_MQsbUHkxEeiaLbGl0bNZNA" name="identificar_processos_chave" guid="_MQsbUHkxEeiaLbGl0bNZNA" presentationName="Identificar processos chave" briefDescription="Identificar processos que possam ser considerados como chave para o projeto de DW" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _YPjZ0HkMEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_VfE2cHkxEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Zv6ZgHkxEeiaLbGl0bNZNA" name="determinar_granularidade" guid="_Zv6ZgHkxEeiaLbGl0bNZNA" presentationName="Determinar granularidade" briefDescription="Determinar junto com o Gerente de Negócio qual será a granularidade dos dados." performedBy="_n1BFEHkHEeiaLbGl0bNZNA" additionallyPerformedBy="_YPjZ0HkMEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_qoQPoHkxEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_jEj0sHkxEeiaLbGl0bNZNA" name="identificar_a_frequncia_de_atualizao_necessria" guid="_jEj0sHkxEeiaLbGl0bNZNA" presentationName="Identificar a frequência de atualização necessária" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" additionallyPerformedBy="_YPjZ0HkMEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_q4MJEHkxEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_89tAIHk1EeiaLbGl0bNZNA" name="matriz_de_necessidades" guid="_89tAIHk1EeiaLbGl0bNZNA" presentationName="Matriz de necessidades">
+                <methodElementProperty xmi:id="_-LMG8Hk1EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_Q7UlIHk2EeiaLbGl0bNZNA" name="elaborar_matriz_de_necessidades" guid="_Q7UlIHk2EeiaLbGl0bNZNA" presentationName="Elaborar matriz de necessidades" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA" output="_89tAIHk1EeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_SvG28Hk2EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_7yrpYHkzEeiaLbGl0bNZNA" name="projetar_modelo_etl" guid="_7yrpYHkzEeiaLbGl0bNZNA">
+              <methodElementProperty xmi:id="_7yrpYXkzEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
+              <methodElementProperty xmi:id="_9tw2AHkzEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_stkO8Hk0EeiaLbGl0bNZNA" name="identificar_fonte_dos_dados" guid="_stkO8Hk0EeiaLbGl0bNZNA" presentationName="Identificar fonte dos dados" performedBy="_n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA _89tAIHk1EeiaLbGl0bNZNA" output="_HXxyUHk2EeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_9PskgHk0EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_HXxyUHk2EeiaLbGl0bNZNA" name="modelo_de_fonte_de_dados" guid="_HXxyUHk2EeiaLbGl0bNZNA" presentationName="Modelo de Fonte de Dados">
+                <methodElementProperty xmi:id="_I_McEHk2EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_yLgzcHk2EeiaLbGl0bNZNA" name="especificar_regras_para_transformao_dos_dados" guid="_yLgzcHk2EeiaLbGl0bNZNA" presentationName="Especificar regras para transformação dos dados" performedBy="_n1BFEHkHEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_0elpUHk2EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+            </childPackages>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_gwBw0HkyEeiaLbGl0bNZNA" name="modelo_etl" guid="_gwBw0HkyEeiaLbGl0bNZNA" presentationName="Modelo ETL">
+              <methodElementProperty xmi:id="_hqIooHkyEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_i66UAHkyEeiaLbGl0bNZNA" name="modelo_dimensional" guid="_i66UAHkyEeiaLbGl0bNZNA" presentationName="Modelo Dimensional">
+              <methodElementProperty xmi:id="_kaug8HkyEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_huhugHk0EeiaLbGl0bNZNA" name="diagrama_dimensional" guid="_huhugHk0EeiaLbGl0bNZNA" presentationName="Diagrama Dimensional">
+              <methodElementProperty xmi:id="_jSqawHk0EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_QWmn8HkJEeiaLbGl0bNZNA" name="administradores_de_sistema" guid="_QWmn8HkJEeiaLbGl0bNZNA" presentationName="Administradores de sistema" briefDescription="São os administradores dos sistemas operacionais da organização.">
+            <methodElementProperty xmi:id="_Vs4JEHkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_n1BFEHkHEeiaLbGl0bNZNA" name="analista_de_dados" guid="_n1BFEHkHEeiaLbGl0bNZNA" presentationName="Analista de Dados" briefDescription="É responsável por projetar o Data Warehouse">
+            <methodElementProperty xmi:id="_vIW6YHkIEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_YPjZ0HkMEeiaLbGl0bNZNA" name="gerente_de_negocio" guid="_YPjZ0HkMEeiaLbGl0bNZNA" presentationName="Gerente de negócio" briefDescription="Tem amplo conhecimento sobre o negócio da organização.">
+            <methodElementProperty xmi:id="_dJrKcHkMEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_htvvYHkIEeiaLbGl0bNZNA" name="usuarios_finais" guid="_htvvYHkIEeiaLbGl0bNZNA" presentationName="Usuários Finais" briefDescription="Serão os usuários finais do Data Warehouse.">
+            <methodElementProperty xmi:id="_lZMGYHkIEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_ZWMwcHkaEeiaLbGl0bNZNA" name="realizar_reuniao_com_gerente_de_negocio" guid="_ZWMwcHkaEeiaLbGl0bNZNA" presentationName="Realizar reunião com gerente de negócio" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _YPjZ0HkMEeiaLbGl0bNZNA" output="_vh4l8HkOEeiaLbGl0bNZNA">
+            <methodElementProperty xmi:id="_iZQsYHkaEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_vh4l8HkOEeiaLbGl0bNZNA" name="atas_de_reuniao" guid="_vh4l8HkOEeiaLbGl0bNZNA" presentationName="Atas de Reunião" briefDescription="Atas de reuniões realizadas entre os atores de cada tarefa">
+            <methodElementProperty xmi:id="_0er3IHkOEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4igbcHkaEeiaLbGl0bNZNA" name="realizar_reuniao_com_usuarios_finais" guid="_4igbcHkaEeiaLbGl0bNZNA" presentationName="Realizar reunião com usuários finais" briefDescription="Realizar reunião com grupos de usuários finais do DW" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA" output="_vh4l8HkOEeiaLbGl0bNZNA">
+            <methodElementProperty xmi:id="_6PJjcHkaEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CROjgHkbEeiaLbGl0bNZNA" name="realizar_reuniao_com_administradores" guid="_CROjgHkbEeiaLbGl0bNZNA" presentationName="Realizar reunião com administradores do sistema operacional" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA" output="_vh4l8HkOEeiaLbGl0bNZNA">
+            <methodElementProperty xmi:id="_DyFSQHkbEeiaLbGl0bNZNA" name="me_edited" value="true"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yy7EfXkEEeiaLbGl0bNZNA" name="CapabilityPatterns" guid="_yy7EfXkEEeiaLbGl0bNZNA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yy7EfnkEEeiaLbGl0bNZNA" name="DeliveryProcesses" guid="_yy7EfnkEEeiaLbGl0bNZNA">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessComponent" xmi:id="_MVCy0HkQEeiaLbGl0bNZNA" href="uma://_MVCy0HkQEeiaLbGl0bNZNA#_MVCy0HkQEeiaLbGl0bNZNA"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yy7Ef3kEEeiaLbGl0bNZNA" name="ProcessContributions" guid="_yy7Ef3kEEeiaLbGl0bNZNA"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>
