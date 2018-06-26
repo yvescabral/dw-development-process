@@ -55,22 +55,22 @@
             <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_YiFboHkJEeiaLbGl0bNZNA" name="analise_sistema" guid="_YiFboHkJEeiaLbGl0bNZNA">
               <methodElementProperty xmi:id="_YiFboXkJEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
               <methodElementProperty xmi:id="_fPiLEHkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gb0_EHkJEeiaLbGl0bNZNA" name="coletar_detalhes_do_sistema_operacional" guid="_gb0_EHkJEeiaLbGl0bNZNA" presentationName="Coletar detalhes do sistema operacional" performedBy="_QWmn8HkJEeiaLbGl0bNZNA _n1BFEHkHEeiaLbGl0bNZNA">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_gb0_EHkJEeiaLbGl0bNZNA" name="coletar_detalhes_do_sistema_transacional" guid="_gb0_EHkJEeiaLbGl0bNZNA" presentationName="Coletar detalhes do sistema transacional" performedBy="_QWmn8HkJEeiaLbGl0bNZNA _n1BFEHkHEeiaLbGl0bNZNA">
                 <methodElementProperty xmi:id="_73fC8HkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
               </contentElements>
               <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_nyse8HkJEeiaLbGl0bNZNA" name="identificar_funcionalidades_existentes" guid="_nyse8HkJEeiaLbGl0bNZNA" presentationName="Identificar funcionalidades existentes">
                 <methodElementProperty xmi:id="_7eJV4HkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
               </contentElements>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wHkfMHkJEeiaLbGl0bNZNA" name="identificar_possveis_relatrios" guid="_wHkfMHkJEeiaLbGl0bNZNA" presentationName="Identificar possíveis relatórios" briefDescription="Identificar relatórios que não existem no sistema operacional da organização e que poderão ser gerados a partir do Data Warehouse.">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wHkfMHkJEeiaLbGl0bNZNA" name="identificar_possveis_relatrios" guid="_wHkfMHkJEeiaLbGl0bNZNA" presentationName="Identificar possíveis relatórios" briefDescription="Identificar relatórios que não existem no sistema transacional da organização e que poderão ser gerados a partir do Data Warehouse.">
                 <methodElementProperty xmi:id="_7A8cgHkJEeiaLbGl0bNZNA" name="me_edited" value="true"/>
               </contentElements>
               <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_HCSugHkKEeiaLbGl0bNZNA" name="identificar_nvel_de_satisfao_dos_usurios" guid="_HCSugHkKEeiaLbGl0bNZNA" presentationName="Identificar nível de satisfação dos usuários" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA">
                 <methodElementProperty xmi:id="_LiMBQHkKEeiaLbGl0bNZNA" name="me_edited" value="true"/>
               </contentElements>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aSa0AHkNEeiaLbGl0bNZNA" name="analisar_modelo_de_dados_do_sistema" guid="_aSa0AHkNEeiaLbGl0bNZNA" presentationName="Analisar modelo de dados do sistema" performedBy="_QWmn8HkJEeiaLbGl0bNZNA _n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aSa0AHkNEeiaLbGl0bNZNA" name="analisar_modelo_de_dados_do_sistema" guid="_aSa0AHkNEeiaLbGl0bNZNA" presentationName="Analisar modelo de dados do sistema transacional" performedBy="_QWmn8HkJEeiaLbGl0bNZNA _n1BFEHkHEeiaLbGl0bNZNA" mandatoryInput="_d48OwHkNEeiaLbGl0bNZNA">
                 <methodElementProperty xmi:id="_jFFjgHkNEeiaLbGl0bNZNA" name="me_edited" value="true"/>
               </contentElements>
-              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d48OwHkNEeiaLbGl0bNZNA" name="modelo_de_dados_sistema" guid="_d48OwHkNEeiaLbGl0bNZNA" presentationName="Modelo de Dados do Sistema Operacional">
+              <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_d48OwHkNEeiaLbGl0bNZNA" name="modelo_de_dados_sistema" guid="_d48OwHkNEeiaLbGl0bNZNA" presentationName="Modelo de Dados do Sistema Transacional">
                 <methodElementProperty xmi:id="_flt5oHkNEeiaLbGl0bNZNA" name="me_edited" value="true"/>
               </contentElements>
             </childPackages>
@@ -110,11 +110,14 @@
             <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_hGQqEHkzEeiaLbGl0bNZNA" name="testar" guid="_hGQqEHkzEeiaLbGl0bNZNA">
               <methodElementProperty xmi:id="_hGQqEXkzEeiaLbGl0bNZNA" name="pkg_loadCheck" value="true"/>
               <methodElementProperty xmi:id="_ifEQEHkzEeiaLbGl0bNZNA" name="me_edited" value="true"/>
-              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OExR8Hk6EeiaLbGl0bNZNA" name="testar_acesso_aos_dados" guid="_OExR8Hk6EeiaLbGl0bNZNA" presentationName="Testar acesso aos dados">
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_OExR8Hk6EeiaLbGl0bNZNA" name="testar_acesso_aos_dados" guid="_OExR8Hk6EeiaLbGl0bNZNA" presentationName="Testar acesso aos dados" performedBy="_n1BFEHkHEeiaLbGl0bNZNA">
                 <methodElementProperty xmi:id="_Y1fpkHk6EeiaLbGl0bNZNA" name="me_edited" value="true"/>
               </contentElements>
               <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_R1S9QHk6EeiaLbGl0bNZNA" name="testar_gerao_de_relatrios" guid="_R1S9QHk6EeiaLbGl0bNZNA" presentationName="Testar geração de relatórios" performedBy="_n1BFEHkHEeiaLbGl0bNZNA">
                 <methodElementProperty xmi:id="_T13t4Hk6EeiaLbGl0bNZNA" name="me_edited" value="true"/>
+              </contentElements>
+              <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rThqIHlFEei4__Hohejq7w" name="verificar_integridade_dos_dados" guid="_rThqIHlFEei4__Hohejq7w" presentationName="Verificar integridade dos dados" performedBy="_n1BFEHkHEeiaLbGl0bNZNA">
+                <methodElementProperty xmi:id="_xM1m4HlFEei4__Hohejq7w" name="me_edited" value="true"/>
               </contentElements>
             </childPackages>
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_rAN_UHkTEeiaLbGl0bNZNA" name="script_etl" guid="_rAN_UHkTEeiaLbGl0bNZNA" presentationName="Script ETL" briefDescription="Script que realizar o ETL no Data Warehouse">
@@ -246,7 +249,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_4igbcHkaEeiaLbGl0bNZNA" name="realizar_reuniao_com_usuarios_finais" guid="_4igbcHkaEeiaLbGl0bNZNA" presentationName="Realizar reunião com usuários finais" briefDescription="Realizar reunião com grupos de usuários finais do DW" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA" output="_vh4l8HkOEeiaLbGl0bNZNA">
             <methodElementProperty xmi:id="_6PJjcHkaEeiaLbGl0bNZNA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CROjgHkbEeiaLbGl0bNZNA" name="realizar_reuniao_com_administradores" guid="_CROjgHkbEeiaLbGl0bNZNA" presentationName="Realizar reunião com administradores do sistema operacional" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA" output="_vh4l8HkOEeiaLbGl0bNZNA">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_CROjgHkbEeiaLbGl0bNZNA" name="realizar_reuniao_com_administradores" guid="_CROjgHkbEeiaLbGl0bNZNA" presentationName="Realizar reunião com administradores do sistema transacional" performedBy="_n1BFEHkHEeiaLbGl0bNZNA _htvvYHkIEeiaLbGl0bNZNA" output="_vh4l8HkOEeiaLbGl0bNZNA">
             <methodElementProperty xmi:id="_DyFSQHkbEeiaLbGl0bNZNA" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>

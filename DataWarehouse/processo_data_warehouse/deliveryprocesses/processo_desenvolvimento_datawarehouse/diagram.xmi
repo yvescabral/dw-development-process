@@ -5,7 +5,7 @@
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mKUuwnkQEeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_MVCy0XkQEeiaLbGl0bNZNA"/>
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mKUuw3kQEeiaLbGl0bNZNA" key="type" value="Activity"/>
     </eAnnotations>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_mU61MHkQEeiaLbGl0bNZNA" name="Análise" outgoing="_mVDYEnkQEeiaLbGl0bNZNA" incoming="_qLrEUHkQEeiaLbGl0bNZNA">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_mU61MHkQEeiaLbGl0bNZNA" name="Análise de necessidades" outgoing="_mVDYEnkQEeiaLbGl0bNZNA" incoming="_qLrEUHkQEeiaLbGl0bNZNA">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_mU61MXkQEeiaLbGl0bNZNA" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mU61MnkQEeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_UHCvgXkQEeiaLbGl0bNZNA"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mU61M3kQEeiaLbGl0bNZNA" key="type" value="Phase"/>
@@ -17,7 +17,7 @@
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mU61N3kQEeiaLbGl0bNZNA" key="type" value="Phase"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_mU61OHkQEeiaLbGl0bNZNA" name="Implementação" outgoing="_mVDYEHkQEeiaLbGl0bNZNA" incoming="_mVDYEXkQEeiaLbGl0bNZNA">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_mU61OHkQEeiaLbGl0bNZNA" name="Implantacao" outgoing="_mVDYEHkQEeiaLbGl0bNZNA" incoming="_mVDYEXkQEeiaLbGl0bNZNA">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_mU61OXkQEeiaLbGl0bNZNA" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mU61OnkQEeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_dF7WEXkQEeiaLbGl0bNZNA"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_mU61O3kQEeiaLbGl0bNZNA" key="type" value="Phase"/>
@@ -42,7 +42,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_mVW6EnkQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_mVW6E3kQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_mVW6FHkQEeiaLbGl0bNZNA" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVW6FXkQEeiaLbGl0bNZNA" x="130" y="40"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVW6FXkQEeiaLbGl0bNZNA" x="110" y="40"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_mVgEAXkQEeiaLbGl0bNZNA" type="1010" element="_mU61NHkQEeiaLbGl0bNZNA">
       <children xmi:type="notation:Node" xmi:id="_mVgEB3kQEeiaLbGl0bNZNA" type="4009"/>
@@ -50,7 +50,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_mVgEA3kQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_mVgEBHkQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_mVgEBXkQEeiaLbGl0bNZNA" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVgEBnkQEeiaLbGl0bNZNA" x="220" y="40"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVgEBnkQEeiaLbGl0bNZNA" x="270" y="80"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_mVgECHkQEeiaLbGl0bNZNA" type="1010" element="_mU61OHkQEeiaLbGl0bNZNA">
       <children xmi:type="notation:Node" xmi:id="_mVpN8HkQEeiaLbGl0bNZNA" type="4009"/>
@@ -58,7 +58,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_mVgECnkQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_mVgEC3kQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_mVgEDHkQEeiaLbGl0bNZNA" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVgEDXkQEeiaLbGl0bNZNA" x="310" y="40"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVgEDXkQEeiaLbGl0bNZNA" x="355" y="120"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_mVpN8XkQEeiaLbGl0bNZNA" type="1010" element="_mU61PHkQEeiaLbGl0bNZNA">
       <children xmi:type="notation:Node" xmi:id="_mVpN93kQEeiaLbGl0bNZNA" type="4009"/>
@@ -66,7 +66,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_mVpN83kQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_mVpN9HkQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_mVpN9XkQEeiaLbGl0bNZNA" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVpN9nkQEeiaLbGl0bNZNA" x="435" y="40"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mVpN9nkQEeiaLbGl0bNZNA" x="450" y="160"/>
     </children>
     <children xmi:type="notation:Node" xmi:id="_n03lAHkQEeiaLbGl0bNZNA" type="1004" element="_n0ubEHkQEeiaLbGl0bNZNA">
       <children xmi:type="notation:Node" xmi:id="_n03lBnkQEeiaLbGl0bNZNA" type="4003">
@@ -76,7 +76,7 @@
       <styles xmi:type="notation:DescriptionStyle" xmi:id="_n03lAnkQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:FillStyle" xmi:id="_n03lA3kQEeiaLbGl0bNZNA"/>
       <styles xmi:type="notation:LineStyle" xmi:id="_n03lBHkQEeiaLbGl0bNZNA" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n03lBXkQEeiaLbGl0bNZNA" x="55" y="50"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n03lBXkQEeiaLbGl0bNZNA" x="30" y="50"/>
     </children>
     <styles xmi:type="notation:PageStyle" xmi:id="_mKUuxXkQEeiaLbGl0bNZNA"/>
     <styles xmi:type="notation:GuideStyle" xmi:id="_mKUuxnkQEeiaLbGl0bNZNA"/>
@@ -124,16 +124,16 @@
       <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_qL0ORHkQEeiaLbGl0bNZNA" points="[10, 0, -80, 9]$[40, 0, -50, 9]$[65, 0, -25, 9]"/>
       <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_qL0OR3kQEeiaLbGl0bNZNA" id="(0.625,0.22448979591836735)"/>
     </edges>
-    <edges xmi:type="notation:Edge" xmi:id="_ZOKyoHkWEeiaLbGl0bNZNA" type="3001" source="_mVpN8XkQEeiaLbGl0bNZNA" target="_mVpN8XkQEeiaLbGl0bNZNA">
-      <children xmi:type="notation:Node" xmi:id="_ZOKypXkWEeiaLbGl0bNZNA" visible="false" type="4012">
+    <edges xmi:type="notation:Edge" xmi:id="_G-lgIHk_EeiaLbGl0bNZNA" type="3001" source="_mVpN8XkQEeiaLbGl0bNZNA" target="_mVpN8XkQEeiaLbGl0bNZNA">
+      <children xmi:type="notation:Node" xmi:id="_G-vRIHk_EeiaLbGl0bNZNA" visible="false" type="4012">
         <element xsi:nil="true"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_ZOKypnkWEeiaLbGl0bNZNA" y="40"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_G-vRIXk_EeiaLbGl0bNZNA" y="40"/>
       </children>
-      <styles xmi:type="notation:RoutingStyle" xmi:id="_ZOKyoXkWEeiaLbGl0bNZNA"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_ZOKyonkWEeiaLbGl0bNZNA" fontName="Arial" fontHeight="8"/>
-      <styles xmi:type="notation:LineStyle" xmi:id="_ZOKyo3kWEeiaLbGl0bNZNA" lineColor="0"/>
+      <styles xmi:type="notation:RoutingStyle" xmi:id="_G-lgIXk_EeiaLbGl0bNZNA"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_G-lgInk_EeiaLbGl0bNZNA" fontName="Arial" fontHeight="8"/>
+      <styles xmi:type="notation:LineStyle" xmi:id="_G-lgI3k_EeiaLbGl0bNZNA" lineColor="0"/>
       <element xsi:nil="true"/>
-      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_ZOKypHkWEeiaLbGl0bNZNA" points="[30, 4, 30, 4]$[92, 12, 92, 12]$[92, 12, 92, 12]$[92, 87, 92, 87]$[15, 87, 15, 87]$[4, 25, 4, 25]"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_G-lgJHk_EeiaLbGl0bNZNA" points="[30, 0, 30, 0]$[50, 0, 50, 0]$[50, 41, 50, 41]$[0, 41, 0, 41]$[0, 25, 0, 25]"/>
     </edges>
   </notation:Diagram>
   <uml:Activity xmi:id="_HnLgEHkREeiaLbGl0bNZNA" name="Análise">
@@ -141,13 +141,13 @@
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HnLgEnkREeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_UHCvgXkQEeiaLbGl0bNZNA"/>
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HnLgE3kREeiaLbGl0bNZNA" key="type" value="Phase"/>
     </eAnnotations>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_HnfCEnkREeiaLbGl0bNZNA" name="Analisar a organização" outgoing="_cNomsHkREeiaLbGl0bNZNA" incoming="_UiC0AHkREeiaLbGl0bNZNA">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_HnfCEnkREeiaLbGl0bNZNA" name="Analisar organização" outgoing="_cNomsHkREeiaLbGl0bNZNA" incoming="_UiC0AHkREeiaLbGl0bNZNA">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HnfCE3kREeiaLbGl0bNZNA" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HnfCFHkREeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_3X0VgXkQEeiaLbGl0bNZNA"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HnfCFXkREeiaLbGl0bNZNA" key="type" value="Activity"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_HnfCFnkREeiaLbGl0bNZNA" name="Analisar o sistema operacional" outgoing="_aqPhUHkREeiaLbGl0bNZNA" incoming="_RXPE4HkREeiaLbGl0bNZNA">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_HnfCFnkREeiaLbGl0bNZNA" name="Analisar sistema" outgoing="_aqPhUHkREeiaLbGl0bNZNA" incoming="_RXPE4HkREeiaLbGl0bNZNA">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_HnfCF3kREeiaLbGl0bNZNA" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HnfCGHkREeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_Dp2u4XkREeiaLbGl0bNZNA"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_HnfCGXkREeiaLbGl0bNZNA" key="type" value="Activity"/>
@@ -405,27 +405,25 @@
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SKsTYnkXEeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_hlhG0XkQEeiaLbGl0bNZNA"/>
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SKsTY3kXEeiaLbGl0bNZNA" key="type" value="Phase"/>
     </eAnnotations>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_SK_OUnkXEeiaLbGl0bNZNA" name="Execução de ETL" outgoing="_t5lcUHkXEeiaLbGl0bNZNA" incoming="_jRomMHkXEeiaLbGl0bNZNA">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_SK_OUnkXEeiaLbGl0bNZNA" name="Executar scripts" outgoing="_t5lcUHkXEeiaLbGl0bNZNA" incoming="_jRomMHkXEeiaLbGl0bNZNA">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SK_OU3kXEeiaLbGl0bNZNA" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SK_OVHkXEeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_usd8sXkVEeiaLbGl0bNZNA"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SK_OVXkXEeiaLbGl0bNZNA" key="type" value="Activity"/>
       </eAnnotations>
     </node>
-    <node xmi:type="uml:StructuredActivityNode" xmi:id="_SK_OVnkXEeiaLbGl0bNZNA" name="Manutenção dos dados" outgoing="_qc5TAHkXEeiaLbGl0bNZNA" incoming="_kp2WUHkXEeiaLbGl0bNZNA">
+    <node xmi:type="uml:StructuredActivityNode" xmi:id="_SK_OVnkXEeiaLbGl0bNZNA" name="Realizar manutenção" outgoing="_qc5TAHkXEeiaLbGl0bNZNA" incoming="_kp2WUHkXEeiaLbGl0bNZNA">
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_SK_OV3kXEeiaLbGl0bNZNA" source="uma_element">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SK_OWHkXEeiaLbGl0bNZNA" key="uri" value="uma://_MVCy0HkQEeiaLbGl0bNZNA#_zVAOEXkVEeiaLbGl0bNZNA"/>
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_SK_OWXkXEeiaLbGl0bNZNA" key="type" value="Activity"/>
       </eAnnotations>
     </node>
     <node xmi:type="uml:InitialNode" xmi:id="_bfopgHkXEeiaLbGl0bNZNA" outgoing="_hB1t0HkXEeiaLbGl0bNZNA"/>
-    <node xmi:type="uml:ForkNode" xmi:id="_cCp3AHkXEeiaLbGl0bNZNA" outgoing="_jRomMHkXEeiaLbGl0bNZNA _kp2WUHkXEeiaLbGl0bNZNA _lPjEYHkXEeiaLbGl0bNZNA" incoming="_hB1t0HkXEeiaLbGl0bNZNA"/>
-    <node xmi:type="uml:JoinNode" xmi:id="_chV-IHkXEeiaLbGl0bNZNA" outgoing="_uhl3gHkXEeiaLbGl0bNZNA" incoming="_ppe5EHkXEeiaLbGl0bNZNA _qc5TAHkXEeiaLbGl0bNZNA _t5lcUHkXEeiaLbGl0bNZNA"/>
+    <node xmi:type="uml:ForkNode" xmi:id="_cCp3AHkXEeiaLbGl0bNZNA" outgoing="_jRomMHkXEeiaLbGl0bNZNA _kp2WUHkXEeiaLbGl0bNZNA" incoming="_hB1t0HkXEeiaLbGl0bNZNA"/>
+    <node xmi:type="uml:JoinNode" xmi:id="_chV-IHkXEeiaLbGl0bNZNA" outgoing="_uhl3gHkXEeiaLbGl0bNZNA" incoming="_qc5TAHkXEeiaLbGl0bNZNA _t5lcUHkXEeiaLbGl0bNZNA"/>
     <node xmi:type="uml:ActivityFinalNode" xmi:id="_c4vxgHkXEeiaLbGl0bNZNA" incoming="_uhl3gHkXEeiaLbGl0bNZNA"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_hB1t0HkXEeiaLbGl0bNZNA" source="_bfopgHkXEeiaLbGl0bNZNA" target="_cCp3AHkXEeiaLbGl0bNZNA"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_jRomMHkXEeiaLbGl0bNZNA" source="_cCp3AHkXEeiaLbGl0bNZNA" target="_SK_OUnkXEeiaLbGl0bNZNA"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_kp2WUHkXEeiaLbGl0bNZNA" source="_cCp3AHkXEeiaLbGl0bNZNA" target="_SK_OVnkXEeiaLbGl0bNZNA"/>
-    <edge xmi:type="uml:ControlFlow" xmi:id="_lPjEYHkXEeiaLbGl0bNZNA" source="_cCp3AHkXEeiaLbGl0bNZNA"/>
-    <edge xmi:type="uml:ControlFlow" xmi:id="_ppe5EHkXEeiaLbGl0bNZNA" target="_chV-IHkXEeiaLbGl0bNZNA"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_qc5TAHkXEeiaLbGl0bNZNA" source="_SK_OVnkXEeiaLbGl0bNZNA" target="_chV-IHkXEeiaLbGl0bNZNA"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_t5lcUHkXEeiaLbGl0bNZNA" source="_SK_OUnkXEeiaLbGl0bNZNA" target="_chV-IHkXEeiaLbGl0bNZNA"/>
     <edge xmi:type="uml:ControlFlow" xmi:id="_uhl3gHkXEeiaLbGl0bNZNA" source="_chV-IHkXEeiaLbGl0bNZNA" target="_c4vxgHkXEeiaLbGl0bNZNA"/>
